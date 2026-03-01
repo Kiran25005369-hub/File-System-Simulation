@@ -75,7 +75,18 @@ Enter parent folder path (e.g., /root): /root
 Folder name: documents
 Folder created: /root/documents
 ```
+=> Sample Output
+=> Create Folder
+![Create Folder](screenshot1.png)
 
+=> Create File
+![Create File](screenshot2.png)
+
+=> Display Structure
+![Display](screenshot3.png)
+
+=> Search using DFS
+![Search](screenshot4.png)
 ---
 
 => Concepts Used
